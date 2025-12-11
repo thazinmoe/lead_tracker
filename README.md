@@ -17,3 +17,15 @@ The Fullstack Developer Path aims to teach you everything you need to become a J
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+
+Recap (Javascript)
+- const
+- addEventListener()
+- innerHTML
+- input.value
+- function parameters
+- function arguments
+- template strings
+-  localStorage
+- The JSON object
+- objects in arrays
